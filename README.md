@@ -22,12 +22,12 @@
 2. Дана квадратная матрица. Вывести на экран элементы, стоящие на диагонали.
 3. Дана матрица. Вывести k-ю строку и p-й столбец матрицы.
 4. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
- 1&nbsp;    2&nbsp;    3&nbsp;   ...  n<br>
+ 1 &nbsp;&nbsp;&nbsp;   2 &nbsp;&nbsp;&nbsp;    3&nbsp;&nbsp;&nbsp;    ...&nbsp;&nbsp;&nbsp;   n<br>
  n&nbsp;   n-1  n-2  ...  1<br>
- 1    2    3   ...  n<br>
- n   n-1  n-2  ...  1<br>
-...  ...  ...  ... ...<br>
- n   n-1  n-2  ...  1<br>
+ 1 &nbsp;&nbsp;&nbsp;    2&nbsp;&nbsp;&nbsp;     3&nbsp;&nbsp;&nbsp;    ...&nbsp;&nbsp;&nbsp;   n<br>
+ n &nbsp;&nbsp;&nbsp;   n-1 &nbsp;&nbsp;&nbsp;  n-2&nbsp;&nbsp;&nbsp;   ... &nbsp;&nbsp;&nbsp;  1<br>
+... &nbsp;&nbsp;&nbsp;  ...&nbsp;&nbsp;&nbsp;   ... &nbsp;&nbsp;&nbsp;  ...&nbsp;&nbsp;&nbsp;  ...<br>
+ n &nbsp;&nbsp;&nbsp;   n-1 &nbsp;&nbsp;&nbsp;  n-2 &nbsp;&nbsp;&nbsp;  ... &nbsp;&nbsp;&nbsp;  1<br>
 
 5. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
  1   1   1   ...   1   1   1<br>
